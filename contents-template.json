@@ -1,0 +1,22 @@
+[
+  {
+    "desc": "CONTOH 1: Posting menggunakan Gambar",
+    "text": "WTS\n\nEVOLVED ENCHANT STONE R80\nSECRET TUMBAL R70\n\n[{timestamp}]",
+    "image": "images/Stock1.png"
+  },
+  {
+    "desc": "CONTOH 2: Posting hanya Teks Saja (Tanpa Gambar)",
+    "text": "WTS\n\nEVOLVED ENCHANT STONE R80\nSECRET TUMBAL R70\n\n[{timestamp}]",
+    "image": ""
+  },
+  {
+    "desc": "CONTOH 3: Posting menggunakan Background Warna Facebook (Angka index 0, 1, 2, dst.)",
+    "text": "WTS\nEVOLVED ENCHANT STONE R80\nSECRET TUMBAL R70\n\n[{timestamp}]",
+    "background_index": 6
+  },
+  {
+    "desc": "CONTOH 4: Posting Hanya Gambar Saja (Tanpa Teks/Caption)",
+    "text": "",
+    "image": "images/Stock1.png"
+  }
+]
