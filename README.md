@@ -6,7 +6,10 @@ A lightweight tool to automate posting messages and images to multiple Facebook 
 
 ## Setup
 
-1. Install Python and dependencies:
+1. **Install Python**:
+   * Download and install Python from the [Official Python Website](https://www.python.org/downloads/).
+   * *Important:* Check the box that says **"Add Python to PATH"** during setup.
+2. Install dependencies:
    ```bash
    pip install playwright
    playwright install chromium
